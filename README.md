@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suliat Sulaiman 
-- 👀 I’m interested in comtibuting to the world of tech 
-- 🌱 I’m currently learning to be ome a backened developer
+- 👀 I’m interested in contributing to the world of tech 
+- 🌱 I’m currently learning to become a backened developer
 - 💞️ I’m looking to collaborate on projects of shared interests.
 - 📫 You can reach me on Facebook and LinkedIn
 - 😄 Pronouns: she/her
